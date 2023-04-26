@@ -1,0 +1,15 @@
+                    b
+             b     bb
+             b     bb
+            bbb   bbbb
+           bbbb   bbbbb
+          bbbbbb bbbbbb       b
+         bbbbbbb bbbbbbb     bb
+       bgggggggggbbbbbbbb    bb
+   ybbbbbbbbbbbgbbbbbbbbbgbbbbb
+  yybbbbbbbbbbgbbbbbbbbbbbgbbbb
+ yyybbbbbbbbbbbbbbbbbbbbbbbbbb
+yyyybbbbbbbbbbbbbbbbbbbbbbbbb
+yy        bbbbbbbbbbbbbbbb
+             bbbbbbbbbbb
+                bbbb

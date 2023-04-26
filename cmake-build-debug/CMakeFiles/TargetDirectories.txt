@@ -1,0 +1,3 @@
+C:/Users/maxwe/OneDrive/Documents/Classes/CS120/M4OEP-mphughes-tkitazat-lbourami/cmake-build-debug/CMakeFiles/graphics.dir
+C:/Users/maxwe/OneDrive/Documents/Classes/CS120/M4OEP-mphughes-tkitazat-lbourami/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxwe/OneDrive/Documents/Classes/CS120/M4OEP-mphughes-tkitazat-lbourami/cmake-build-debug/CMakeFiles/rebuild_cache.dir
