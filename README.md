@@ -11,7 +11,7 @@ The game utilizes keyboard input for controlling the action:
 - Up and Down arrow keys: Aim the gun
 - Spacebar: Shoot bullets at the birds
 
-## 🦜 Dynamic Birds and Clouds ☁️
+## 🦜 Dynamic Birds and Clouds 
 Birds and clouds are drawn using OpenGL, each with a timer that determines how long they remain on the screen and when they should update. The birds have different speeds, and as the game progresses, they become faster, increasing the difficulty and keeping you on your toes!
 
 ## 🎨 Graphics Classes
