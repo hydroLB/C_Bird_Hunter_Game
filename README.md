@@ -1,7 +1,7 @@
 # 🎯 Bird Hunter Game: Test Your Aiming Skills! 
 
 ## 📚 Overview
-This exciting and visually engaging game was developed as part of Lisa Dion's Advanced Programming class in collaboration with fellow students Maxwell Hughes and Tai Kitazato. Using OpenGL for rendering graphics, the Bird Hunter game tests your aiming skills as you strive to protect the skies from pesky birds.
+This exciting and visually engaging game was developed as part of Lisa Dion's Advanced Programming class in collaboration with fellow students Maxwell Hughes and Tai Kitazato. Using OpenGL for rendering graphics, the Bird Hunter game tests your aiming skills as you strive to protect the skies from pesky birds!
 
 ## 🎮 Gameplay
 In Bird Hunter, you play as a skilled hunter with a mission to shoot as many birds as possible while they fly across the screen. But be careful! If a bird reaches the left end of the screen before you can shoot it down, it's game over.
@@ -25,4 +25,4 @@ The game employs four graphics classes to create objects of various types, such 
 - User prompt screens
 
 ## 🏆 Set Your High Score!
-Ready to put your aiming skills to the test? Dive into the Bird Hunter game and become the ultimate bird conservationist! Set your own high score and challenge your friends to see who can claim the title of the best bird hunter!
+Ready to put your aiming skills to the test? Dive into the Bird Hunter game and become the ultimate bird hunter! Set your own high score and challenge your friends to see who can claim the title of being best shot!
